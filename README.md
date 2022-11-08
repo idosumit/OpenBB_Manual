@@ -6,7 +6,7 @@
 
 In the current world of finance, in order to monitor and analyze real-time financial market data such as news, price quotes, and messaging across its proprietary secure network, Bloomberg Terminal is ready to equip investors and professionals with the information. However, the cost for Bloomberg Terminal equals to around $2400 per month, which is a high price for the amateurs. With that in mind, OpenBB Terminal is created to give investment chances for everyone, regardless of who they are and where they are.
 
-This manual has an interesting background. The high price of Bloomberg Terminal was creating inconveniences for interested finance students at Ritsumeikan Asia Pacific University. Thus, my team of 3 students from my university seminar "Data Science, Machine Learning, NLP" decided on a research project on the OpenBB Terminal and make a manual on it for our university students to use. 
+This manual has an interesting background. The high price of Bloomberg Terminal had been creating inconveniences for interested finance students at Ritsumeikan Asia Pacific University. Thus, my team of 3 students from my university seminar "Data Science, Machine Learning, NLP" decided on a research project on the OpenBB Terminal and make a manual on it for our university students to use. 
 
 #
 
