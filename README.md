@@ -32,9 +32,9 @@ This manual has an interesting background. The high price of Bloomberg Terminal 
 ### Contributors:
 <a href="mailto:psumit.sv@gmail.com">POKHAREL Sumit</a>
 
-<a href="ph19l6jp@apu.ac.jp">PHAM Le Cong Kien</a>
+<a href="mailto:ph19l6jp@apu.ac.jp">PHAM Le Cong Kien</a>
 
-<a href="hu19v6im@apu.ac.jp">HUYNH Vu Thao Nguyen</a>
+<a href="mailto:hu19v6im@apu.ac.jp">HUYNH Vu Thao Nguyen</a>
 
 ### Supervisor:
 <a href="mailto:wclaster@apu.ac.jp">CLASTER William Bill</a>
